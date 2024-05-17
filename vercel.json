@@ -3,6 +3,10 @@
     {
       "path": "/api/getProduct",
       "schedule": "0 5 * * *"
+    },
+    {
+      "path": "/api/getProducts_2",
+      "schedule": "0 * * * *"
     }
   ]
 }
