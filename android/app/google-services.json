@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356287096174",
+    "project_id": "slap-4ab7e",
+    "storage_bucket": "slap-4ab7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356287096174:android:d79499bbf50318b8f68d7f",
+        "android_client_info": {
+          "package_name": "com.wered.slap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjaYubWeHgSX3YuB6T-rd2kjK2eEcR8-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
